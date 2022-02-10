@@ -1,4 +1,4 @@
-# Multi-Process Pipe-line
+# Multi-Process Pipes
 Computer Assignment #2, Operating Systems Course, University of Tehran
 
-Implemented word counter using Map-Reduce model and Pipes.
+Implementing word counter using Map-Reduce model and unnamed/named Pipes.
